@@ -1,0 +1,16 @@
+Teacher ID,Teacher,Subject,Grade,Set,Hours per Week
+1,Chris,English,10,1,2
+1,Chris,English,11,1,2
+1,Chris,English,12,1,2
+2,Nick,Mathematics,10,1,2.5
+2,Nick,Mathematics,11,1,2.5
+2,Nick,Mathematics,12,1,2.5
+3,Ryan,Science,10,1,2.5
+3,Ryan,Science,11,1,2.5
+3,Ryan,Science,12,1,2.5
+4,Chloe,Geography,10,1,1.5
+4,Chloe,Geography,11,1,1.5
+4,Chloe,Geography,12,1,1.5
+5,Jaxi,Drama,10,1,0.5
+5,Jaxi,Drama,11,1,0.5
+5,Jaxi,Drama,12,1,0.5
